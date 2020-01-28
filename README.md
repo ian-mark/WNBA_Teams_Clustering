@@ -2,7 +2,7 @@
 ## Clustering to Find the Best Teams & Simulating a Data-Driven "Playoff" Between the Best WNBA Players Across Time
 
 ![image](https://cdn-images-1.medium.com/max/2400/1*aXggnBMsODmD-lheAuNT4w.png)
-[Photo:](https://www.flickr.com/photos/number7cloud/43170342644) Angel McCoughtry of the Atlanta Dream playing against the Minnesota Lynx.
+https://www.flickr.com/photos/number7cloud/43170342644) Angel McCoughtry of the Atlanta Dream playing against the Minnesota Lynx.
 
 ## Overview
 Using K-Means Clustering, I ranked all WNBA players into teams based on how well they performed compared to other players in their position. 
